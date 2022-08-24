@@ -7,7 +7,7 @@ Vasundhra Dahiya is a PhD scholar in Digital Humanities at IIT Jodhpur. Her rese
 
 Github: https://github.com/chaobotic-vasu
 
-Orcid : orcid.org/0000-0002-8646-8450
+Orcid : orcid.org/0000-0002-8646-8450 
 
 LinkedIn : https://www.linkedin.com/in/vasundhra-dahiya/
 
